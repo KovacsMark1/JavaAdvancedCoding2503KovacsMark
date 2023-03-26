@@ -2,3 +2,5 @@
 /class-examples/target/
 /exercises/target/
 /.idea/
+/.idea/*
+/.idea/misc.xml
